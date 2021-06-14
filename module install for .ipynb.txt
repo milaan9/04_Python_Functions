@@ -1,0 +1,6 @@
+1. Go to Anaconda Prompt (anaconda3)
+2. Paste the code: pip install import-ipynb
+3. Press Enter
+
+see:
+Downloading import-ipynb-0.1.3.tar.gz (4.0 kB)
