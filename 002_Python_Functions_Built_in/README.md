@@ -5,6 +5,6 @@
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
  
  
-# 01 Python Built-in Functions
+# Python Built-in Functions
 
 In this class, you'll learn about python built-in functions.
