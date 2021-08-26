@@ -9,6 +9,7 @@
 <a href="https://github.com/milaan9/04_Python_Functions/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/04_Python_Functions.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/milaan9/04_Python_Functions/issues"><img src="https://img.shields.io/github/issues/milaan9/04_Python_Functions.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
 <img src="https://img.shields.io/github/languages/top/milaan9/04_Python_Functions.svg?colorB=996600&style=flat" alt="Language"/> </a> 
+<a href="https://github.com/milaan9/04_Python_Functions/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a>
 </p> 
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
 
